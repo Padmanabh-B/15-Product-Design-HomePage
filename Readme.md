@@ -25,3 +25,4 @@ and this is responsive for mobile screens and laptop screens
 
 
 ## Deployed Link
+[Product Design Page](https://paddu-shopify-ui-clone.netlify.app/)
